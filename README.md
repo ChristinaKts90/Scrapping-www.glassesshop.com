@@ -1,2 +1,2 @@
-# Scrapping-www.glassesshop.com
-Scrapping-www.glassesshop.com
+# Scraping-www.glassesshop.com
+Scraping-www.glassesshop.com
